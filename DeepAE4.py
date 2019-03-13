@@ -85,8 +85,8 @@ train = tf.train.AdamOptimizer(LR).minimize(loss)
 
 ############################# Running ##################################
 Results = {}
-#seeds = random.sample(range(0, 1000), 5)
-seeds = [943, 800, 175, 486, 749]
+seeds = random.sample(range(0, 1000), 5)
+
 
 
 
