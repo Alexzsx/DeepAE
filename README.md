@@ -1,4 +1,4 @@
-# Uncovering the Key Dimensions of High-Throughput Biomolecule Data using Deep Learning
+# Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning
 This is a deep learning framework, termed as DeepAE, to identify the key dimensions from high-dimensional gene expression profiles. DeepAE is composed of an input layer, seven hidden layers, and output layer to form the encoder and decoder phases that are corresponded to the compression and decompression. 
 
 # PREREQUISITE
